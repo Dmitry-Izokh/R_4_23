@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\R_4_23.dll"</Assembly>
+		<AddInId>184034B9-30F0-4C65-9328-B804EF7FFEA2</AddInId>
+		<FullClassName>R_4_23.Main</FullClassName>
+		<VendorId>R_4_23</VendorId>
+		<Text>Приложение для копирования</Text>
+	</AddIn>
+</RevitAddIns>
